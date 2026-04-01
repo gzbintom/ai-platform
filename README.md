@@ -1,1 +1,1 @@
-# ai-platform
+cd /root/ai-platform
